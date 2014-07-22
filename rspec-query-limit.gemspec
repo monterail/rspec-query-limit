@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["cieslar.jakub@gmail.com"]
   spec.summary       = %q{Rspec custom matchers for Rails query counter}
   spec.description   = %q{Rspec custom matchers for Rails query counter}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/monterail/rspec-query-limit"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
