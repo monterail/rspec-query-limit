@@ -17,6 +17,8 @@ And then execute:
 $ bundle
 ```
 
+Support for rspec versions 2 and 3
+
 ## Usage
 
 Add to your ```spec/spec_helper.rb```
