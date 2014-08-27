@@ -1,4 +1,4 @@
-# Rspec custom matchers for Rails query counter
+# Rspec custom matchers for Rails query counter [![Gem Version](https://badge.fury.io/rb/rspec-query-limit.png)](http://badge.fury.io/rb/rspec-query-limit)
 
 ## Features
 
