@@ -1,3 +1,5 @@
+require 'rspec/matchers'
+
 module Rspec
   module QueryLimit
     RSpec::Matchers.define :query_limit_eq do |expected|
